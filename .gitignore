@@ -1,0 +1,7 @@
+./build
+**/build
+**/dist/
+*.d.ts
+node_modules
+.ask
+cdk.out
